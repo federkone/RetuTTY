@@ -10,8 +10,8 @@ El objetivo principal es proporcionar una plataforma portable que permita conect
 
 ### 📦 Componentes Incluidos
 
-- **OpenSSH** - Cliente SSH integrado,Fuente: https://github.com/PowerShell/Win32-OpenSSH/releases/tag/V8.6.0.0p1-Beta
-- **WinSCP** - Cliente SFTP/SCP integrado,Fuente: https://winscp.net/download/WinSCP-6.5.1-Portable.zip
+- **OpenSSH** - Cliente SSH integrado,Fuente: [Github](https://github.com/PowerShell/Win32-OpenSSH/releases/tag/V8.6.0.0p1-Beta)
+- **WinSCP** - Cliente SFTP/SCP integrado,Fuente: [winscp.net](https://winscp.net/download/WinSCP-6.5.1-Portable.zip)
 - **Scripts PowerShell** - Para funcionalidades adicionales usando servicios nativos
 
 
