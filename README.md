@@ -50,3 +50,9 @@ Todas las dependencias pueden ser intercambiables simplemente reemplazando los d
 1. **Almacenar credenciales** del servidor en la aplicación
 2. **Configurar secuencia automatizada** (opcional)
 3. **Gestionar múltiples servidores** desde una interfaz unificada
+
+## Imagenes
+
+![Captura de pantalla](./images/image.png)
+![Captura de pantalla](./images/image4.png)
+![Captura de pantalla](./images/image3.png)
