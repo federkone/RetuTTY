@@ -4,7 +4,7 @@ Add-Type -AssemblyName System.Drawing
 
 $Form                            = New-Object system.Windows.Forms.Form
 $Form.ClientSize                 = New-Object System.Drawing.Point(1050,1000)
-$Form.text                       = "SSH Toolbox By Nullplague"
+$Form.text                       = "SSH Toolbox By @Federkone"
 $Form.StartPosition              = "CenterScreen"
 $Form.TopMost                    = $false
 $Form.BackColor                  = [System.Drawing.ColorTranslator]::FromHtml("#f0f0f0")
@@ -197,22 +197,22 @@ function createFile{
                     "Descripcion" = "Empty";
                     "Servidor" = "";
                     "Usuario" = "User";
-                    "Puerto" = "Port ssh(def:22)";
-                    "nameKey" = "key ssh";
+                    "Puerto" = "22";
+                    "nameKey" = "";
                 };
                 "credenciales2" = [Ordered]@{
                     "Descripcion" = "Empty";
                     "Servidor" = "";
                     "Usuario" = "User";
-                    "Puerto" = "Port ssh(def:22)";
-                    "nameKey" = "key ssh";
+                    "Puerto" = "22";
+                    "nameKey" = "";
                 };
                 "credenciales3" =[Ordered] @{
                     "Descripcion" = "Empty";
                     "Servidor" = "";
                     "Usuario" = "User";
-                    "Puerto" = "Port ssh(def:22)";
-                    "nameKey" = "key ssh";
+                    "Puerto" = "22";
+                    "nameKey" = "";
                 }
 
         }
